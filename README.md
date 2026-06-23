@@ -1,4 +1,4 @@
-# TruCare Knowledge Base Q&A Agent
+##Knowledge Base Q&A Agent
 
 An agentic AI assistant that answers questions about TruCare product documentation by reading PDFs directly using tools — no fixed retrieval chain.
 
