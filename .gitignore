@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Documents (add PDFs to docs/ locally, do not commit)
+docs/
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
