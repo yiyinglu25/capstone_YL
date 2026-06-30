@@ -1,0 +1,25 @@
+# Environment / secrets
+.env
+
+# Auto-generated vector index (rebuild with embed.py)
+chroma_db/
+
+# Query logs and embed output
+logs/
+embed_log.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
